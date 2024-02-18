@@ -5,6 +5,8 @@ module.exports = {
     MONGODB_URI : 'mongodb+srv://theliger1433:theliger1433@cluster0.vkhl8vv.mongodb.net/?retryWrites=true&w=majority',
     Publishable_Key : 'pk_test_51I3nnHFmnlpQUlnVG3AdoCKlP6P30y6ZSfa8IaKgH6DPqInvtQgpRaXwUFP3xEAaQVxkeOOl3mPnle1SIFlQxQg000s21G2XJ0',
     Secret_Key : 'sk_test_51I3nnHFmnlpQUlnVoU4fb41vp1T4gmEvbMfnNjk9Lb1UjtirnWiN8OeXz0BBF2ZtHfMQmLASxUQ6FHuwVcj2Zdke00EnyR8yKy',
-    GMAIL_USER:'iconsahil7@gmail.com',
-    GMAIL_PASS:'eqfrixksnkmvdlyx'
+    //GMAIL_USER:'iconsahil7@gmail.com',
+    //GMAIL_PASS:'eqfrixksnkmvdlyx'
+    GMAIL_USER:'theliger143@gmail.com'
+    GMAIL_PASS:'Sidhu@123'
 }
