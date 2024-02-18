@@ -7,6 +7,6 @@ module.exports = {
     Secret_Key : 'sk_test_51I3nnHFmnlpQUlnVoU4fb41vp1T4gmEvbMfnNjk9Lb1UjtirnWiN8OeXz0BBF2ZtHfMQmLASxUQ6FHuwVcj2Zdke00EnyR8yKy',
     //GMAIL_USER:'iconsahil7@gmail.com',
     //GMAIL_PASS:'eqfrixksnkmvdlyx'
-    GMAIL_USER:'theliger143@gmail.com'
-    GMAIL_PASS:'Sidhu@123'
+    GMAIL_USER:theliger143@gmail.com
+    GMAIL_PASS:Sidhu@123
 }
